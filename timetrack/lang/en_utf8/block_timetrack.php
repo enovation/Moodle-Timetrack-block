@@ -1,0 +1,41 @@
+<?php
+
+$string['timetrack:participate']    =   'Use time tracking and self-reporting';
+$string['timetrack:manage']         =   'Report on selected tutors';
+$string['timetrack:overridelock']   =   'N/A';
+
+$string['modulename']         =   'Tutor Time Tracking';
+$string['modulenameplural']   =   'Tutle Time Tracking';
+$string['ttblocktitle']       =   'Tutor Time Tracking';
+$string['ttblockfooter']      =   'Enter tutor time tracking';
+$string['ttheadname']         =   'Name';
+$string['ttheaddate']         =   'Date';
+$string['ttheadallocation']   =   'Task Allocation';
+$string['ttheadquantity']     =   'Quantity';
+$string['ttheadrate']         =   'Rate';
+$string['ttheadtotal']        =   'Total';
+$string['tttimeentry']        =   'Time Entry';
+$string['tttimeview']         =   'Time Tracking Report';
+$string['tttimeviewpath']     =   'Tutor Time Tracking -> Report';
+$string['ttrequiredhint']     =   '<div style=\\"font-size: 0.8em; color: #FF3333;\\">* Denotes allocations which require a quantity</div>';
+$string['ttsubmitbutton']     =   'Submit Times';
+$string['ttcancelbutton']     =   'Cancel Submission';
+$string['ttconfirmbutton']    =   'Confirm Submission';
+$string['ttreportheading']    =   'Tutor Time Tracking Report';
+$string['ttreportstarthead']  =   'Period Start';
+$string['ttreportendhead']    =   'Period End';
+$string['tterrornodata']      =   'Could not save empty tutor time tracking dataset';
+$string['tterrorsaving']      =   'An error occured saving the data';
+$string['ttsuccesssaving']    =   'Time Tracking Entries Saved';
+$string['tterrorrequired']    =   'Please complete the required fields';
+$string['tttimeview']         =   'Tutor Time Tracking Report';
+$string['ttnocapability']     =   'You do not have permission to take this action';
+$string['ttviewnoresults']    =   'No records were found within the given time frame';
+$string['ttviewfindbutton']   =   'Find tracking entries';
+$string['ttexporttoexcel']    =   'Export to Excel';
+$string['ttviewlink']         =   'View Time Tracking History';
+$string['configtitle']        =   'New block title';
+$string['leaveblanktohide']   =   'Leave blank to hide';
+$string['configsubtext']      =   'Block footer text';
+$string['configcontent']      =   'Block link text';
+$string['blockcontent']       =   'Enter your times here';
